@@ -1,4 +1,4 @@
-# Crowdfunding_ETL
+# Crowdfunding_Data_Extract_Transform_Load
 
 ## Overview
 This project builds an ETL (Extract, Transform, Load) pipeline to transform two datasets into second normal forms, and store them into a database.
